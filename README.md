@@ -29,7 +29,7 @@ Proje, yemek kategorilerini ve bu kategorilere ait yemekleri listeleme yeteneği
 
 - ## Ekran Görüntüleri
 
-![Screenshot 1](MVVMFood/app/src/main/java/com/example/mvvmfoodapp/util/screenshots/home_fragment.jpg)
+![Screenshot 1](MVVMFood/MVMMFood/app/src/main/java/com/example/mvvmfoodapp/util/screenshots/home_fragment.jpg)
 ![Screenshot 2](MVVMFood/app/src/main/java/com/example/mvvmfoodapp/util/screenshots/favorite_fragment.jpg)
 ![Screenshot 3](MVVMFood/app/src/main/java/com/example/mvvmfoodapp/util/screenshots/categories_fragment.jpg)
 ![Screenshot 4](MVVMFood/app/src/main/java/com/example/mvvmfoodapp/util/screenshots/search_fragment.jpg)
