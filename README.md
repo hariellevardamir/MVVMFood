@@ -14,7 +14,7 @@ Proje, yemek kategorilerini ve bu kategorilere ait yemekleri listeleme yeteneği
 - Kullanıcı arama butonu üzerinden API'de kayıtlı bulunan yemekleri isimlerine göre aratabilir ve yemeğin detaylarına ulaşabilir.
 - Kullanıcıya yemekler kategorilerine göre ayrılmış bir şekilde de sunuluyor.Burada istenen kategori seçilerek kategoriye ait yemeklere ulaşabilir.Oradan da yine seçilecek herhangi bir yemeğin detaylarına ulaşılabilir.
 - Detaylarına ulaşılan her yemek kaydetme butonu ile database(room)'e kaydedilebilir ve daha sonra bu yemeğe kolayca ulaşılabilir.
-- Kaydedilen yemek daha sonra favorite fragementda sağa veya sola kaydırılarak database'den silme işlemi gerçekleştirilebilir.
+- Kaydedilen yemek daha sonra favorite fragments'da sağa veya sola kaydırılarak database'den silme işlemi gerçekleştirilebilir.
   
 ## Kullanılan Teknolojiler
 
