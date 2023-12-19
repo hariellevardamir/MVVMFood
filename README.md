@@ -10,23 +10,38 @@ Proje, yemek kategorilerini ve bu kategorilere ait yemekleri listeleme yeteneği
 ## Özellikler
 
 - Kullanıcı uygulamaya her girdiğinde rastgele bir yemek kullanıcıya sunulmaktadır.Kullanıcı isterse bu yemeğin detaylarına ; tarifine ve youtube üzerinden yapılış videosuna ulaşabilir.
-- Kullanılan API üzerinden popüler yemekler kullanıcıya recyclerview içinde sunulmakta.Kullanıcı popüler bir yemeğe uzun tıklama gerçekleştirirse ekranın alt kısmında bottom sheet fragment'da yemeğe dair ufak bir bilgilendirme fragmant'ı açılır ve oradan isterse yemeğin tüm detaylarına ulaşabilir veya popüler yemekler kısmında bulunan herhangi bir yemeğe tıklayarak , o yemeğe ait detaylara yine ulaşabilir.
+
+- Kullanılan API üzerinden popüler yemekler kullanıcıya recyclerview içinde sunulmakta.Kullanıcı popüler bir yemeğe uzun tıklama gerçekleştirirse ekranın alt
+kısmında bottom sheet fragment'da yemeğe dair ufak bir bilgilendirme fragmant'ı açılır ve oradan isterse yemeğin tüm detaylarına ulaşabilir veya popüler yemekler kısmında bulunan herhangi bir yemeğe tıklayarak , o yemeğe ait detaylara yine ulaşabilir.
+
 - Kullanıcı arama butonu üzerinden API'de kayıtlı bulunan yemekleri isimlerine göre aratabilir ve yemeğin detaylarına ulaşabilir.
+
 - Kullanıcıya yemekler kategorilerine göre ayrılmış bir şekilde de sunuluyor.Burada istenen kategori seçilerek kategoriye ait yemeklere ulaşabilir.Oradan da yine seçilecek herhangi bir yemeğin detaylarına ulaşılabilir.
+
 - Detaylarına ulaşılan her yemek kaydetme butonu ile database(room)'e kaydedilebilir ve daha sonra bu yemeğe kolayca ulaşılabilir.
+
 - Kaydedilen yemek daha sonra favorite fragments'da sağa veya sola kaydırılarak database'den silme işlemi gerçekleştirilebilir.
   
 ## Kullanılan Teknolojiler
 
 - Kotlin
+
 - Android Architecture Components (ViewModel, LiveData)
+
 - ViewBinding
+
 - NavigationComponent
+
 - Retrofit
+
 - Glide
+
 - Database(room)
+
 - Coroutines
+
 - RecyclerView
+
 
 - ## Ekran Görüntüleri
 
