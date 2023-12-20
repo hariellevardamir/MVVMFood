@@ -6,7 +6,6 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.mvvmfoodapp.databinding.CategoryItemBinding
 import com.example.mvvmfoodapp.pojo.Category
-import com.example.mvvmfoodapp.pojo.CategoryList
 
 class CategoriesAdapter() : RecyclerView.Adapter<CategoriesAdapter.CategoryViewHolder>() {
 
